@@ -5,7 +5,7 @@ This Tool monitors the health of provided API's and generate domain availability
 ## Table of Contents
 
 - [Installation](#Installation)
-- [Problems with Solution](#Problems with Solution)
+- [Problems with Solution](#Problems-with-Solution)
 - [Limitation](#Limitation)
 
 
